@@ -1,2 +1,2 @@
 # Android-application
-Android Application
+This is repositor of android application created on university
